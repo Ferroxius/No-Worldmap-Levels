@@ -8,8 +8,16 @@ Designed to be used with mods like Geralt Level Scales (https://www.nexusmods.co
 # Compatability
 This mod modifies panel_worldmap.redswf meaning any other mods that also modify this file will be incompatible unless I make an adaptation of it
 
+Currently the following mods have adaptations for them (You do not require the main mod when using an adaptation)
+- All Quest Objectives On Map
+- Colored Map Markers
+
 # Installation
 Drag and drop modWorldmapLevels into your mods folder
 
 # Uninstallation
 Take modNoWorldmapLevels out of your mods folder
+
+# Credits
+Wolfmark for All Quest Objectives files
+DJ_Kovrik for Colored Map Markers files
