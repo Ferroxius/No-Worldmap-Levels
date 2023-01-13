@@ -19,5 +19,5 @@ Drag and drop modWorldmapLevels into your mods folder
 Take modNoWorldmapLevels out of your mods folder
 
 # Credits
-Wolfmark for All Quest Objectives files
-DJ_Kovrik for Colored Map Markers files
+- Wolfmark for All Quest Objectives files
+- DJ_Kovrik for Colored Map Markers files
