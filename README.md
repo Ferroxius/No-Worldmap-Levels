@@ -15,6 +15,8 @@ Currently the following mods have adaptations for them (You do not require the m
 # Installation
 Drag and drop modWorldmapLevels into your mods folder
 
+If you are using All Quest Objectives or Colored Map Markers then use the appropriate adaptation rather than the main file
+
 # Uninstallation
 Take modNoWorldmapLevels out of your mods folder
 
